@@ -1,0 +1,11 @@
+.login-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: linear-gradient(to bottom right, #00bcd4, #3f51b5);
+}
+
+.p-field {
+    margin-bottom: 1rem;
+}

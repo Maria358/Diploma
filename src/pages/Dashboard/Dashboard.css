@@ -1,0 +1,22 @@
+.motorcycle-card {
+    width: 400px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.5);
+    /* Replace with your desired box shadow value */
+    transition: box-shadow 0.3s ease;
+    cursor: pointer;
+    
+}
+
+.red-heart {
+    color: red !important;
+}
+
+.motorcycle-card:hover {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.6);
+    /* Apply the desired box shadow on hover */
+}
+
+.image {
+    width: 150px;
+    height: 250px;
+}

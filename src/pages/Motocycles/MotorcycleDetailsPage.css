@@ -1,0 +1,42 @@
+
+.motorcycle-info-container {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 20px;
+    border-radius: 40%;
+}
+
+.motorcycle-photo {
+    flex: 1;
+    margin-right: 20px;
+}
+
+.motorcycle-image {
+    margin-top: 5px;
+    width: 100%;
+    height: auto;
+}
+
+.motorcycle-details {
+    flex: 2;
+}
+
+.motorcycle-name {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+.motorcycle-info {
+    margin-bottom: 5px;
+    border-radius: 40%;
+}
+
+.motorcycle-label {
+    font-weight: bold;
+    margin-right: 5px;
+}
+
+.motorcycle-value {
+    margin-left: 5px;
+}
